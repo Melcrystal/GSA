@@ -8,7 +8,7 @@
 
 using namespace std;
 
-#include "direction.h"
+#include "Direction.h"
 
 class Problem
 {
@@ -28,7 +28,7 @@ public:
 	double LowerLimit, UpperLimit;
 
 private:
-
+    int id;
 	int _dimension;
 };
 
