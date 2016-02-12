@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1453821931 source:c:\users\melh\desktop\gsa\gsa\gsa\direction.cpp
+	"stdafx.h"
+	"direction.h"
+
+1453825042 c:\users\melh\desktop\gsa\gsa\gsa\stdafx.h
+	"targetver.h"
+	<stdio.h>
+	<tchar.h>
+
+1453825042 c:\users\melh\desktop\gsa\gsa\gsa\targetver.h
+	<SDKDDKVer.h>
+
+1453821624 c:\users\melh\desktop\gsa\gsa\gsa\direction.h
+
