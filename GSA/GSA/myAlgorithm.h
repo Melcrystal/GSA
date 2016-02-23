@@ -54,6 +54,10 @@ public:
 
 	void evolution(int iter); /*makes an evolution step*/
 
+
+	double gConstant();
+	double acceleration();
+
 };
 
 #endif
